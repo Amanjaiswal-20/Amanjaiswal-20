@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently looking for **Software developer role**
   
-- 🌱 I’m currently working on **MERN stack project**
+- 🌱 I’m currently working on **building a MERN stack project**
   
 - 🌱 I’m currently learning **Core concepts of React and Node**
 
