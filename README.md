@@ -1,15 +1,17 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Jaiswal</h1>
-<h3 align="center">A passionate full Stack developer from India</h3>
+<h3 align="center">A passionate Coder and full Stack developer from India</h3>
 
-- 🔭 I’m currently working on **building a MERN project**
-
+- 🔭 I’m currently looking for **Software developer role**
+  
+- 🌱 I’m currently working on **MERN stack project**
+  
 - 🌱 I’m currently learning **Core concepts of React and Node**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Amanjaiswal-20](https://github.com/Amanjaiswal-20)
 
-- 💬 Ask me about **Java Script , React js , Node js and MongoDb**
+- 💬 Ask me about **DSA , Java Script , React js , Node js and MongoDb**
 
-- 📫 How to reach me **secretaman11@gmail.com**
+- 📫 How to reach me **amanjaiswal.sde@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
