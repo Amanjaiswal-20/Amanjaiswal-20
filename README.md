@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Aman Kumar Jaiswal</h1>
-<h3 align="center">A passionate Coder and full Stack developer from India</h3>
+<h3 align="center">A passionate Coder and Back End developer from India</h3>
 
-- 🔭 I’m currently looking for **Software developer role**
+- 🔭 I’m currently looking for **Software developer role (Backend Preffered)**
   
-- 🌱 I’m currently working on **building a MERN stack project**
+- 🌱 I’m currently working on **building Ed-Tech at Allen Digital mostly working on Golang project**
   
-- 🌱 I’m currently learning **Core concepts of React and Node**
+- 🌱 I’m currently learning **Core concepts of Golang**
 
-- 👨‍💻 All of my projects are available at [https://github.com/Amanjaiswal-20](https://github.com/Amanjaiswal-20)
+- 👨‍💻 All of my public projects are available at [https://github.com/Amanjaiswal-20](https://github.com/Amanjaiswal-20)
 
-- 💬 Ask me about **DSA , Java Script , React js , Node js and MongoDb**
+- 💬 Ask me about **DSA , Golang , API , Cron Jobs , Java Script , React js , Node js and MongoDb**
 
 - 📫 How to reach me **amanjaiswal.sde@gmail.com**
 
